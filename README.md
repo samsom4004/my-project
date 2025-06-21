@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![NLP](https://img.shields.io/badge/NLP-NER-orange)
 
-![Claude Token Monitor Screenshot](doc/sc.png)
+![Claude Token Monitor Screenshot](sc.png)
 
 A Named Entity Recognition (NER) system to identify and classify entities (e.g., persons, organizations, locations) in unstructured text. Built with state-of-the-art NLP techniques.
 
